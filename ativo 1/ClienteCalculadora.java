@@ -57,6 +57,7 @@ public class ClienteCalculadora {
   
             // Comando de impressão e exibição
             System.out.println("O resultado da operação "+equacao+" é = " +new String(dados, 0, dados.length));
+            System.out.println("--------------------------------------------------------");
         }
     }
 }
