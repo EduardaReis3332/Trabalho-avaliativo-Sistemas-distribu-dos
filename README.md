@@ -132,7 +132,7 @@ No começo do programa, é verificado se o servidor está funcionando. Caso este
 
 Ao iniciar a interação com o usuário, é dado um menu, que exibe três opções: adicionar um veículo, buscar por veículos a partir de um ano específico ou sair do programa.
 ```java
-  System.out.println("\nDigite a opção desejada:");
+            System.out.println("\nDigite a opção desejada:");
             System.out.println("1 - Adicionar novo veículo");
             System.out.println("2 - Buscar veículos a partir de um ano");
             System.out.println("3 - Sair");
@@ -140,7 +140,7 @@ Ao iniciar a interação com o usuário, é dado um menu, que exibe três opçõ
 
 Se a opção selecionada for "adicionar um veículo", o programa vai pedir informações sobre o modelo, a marca, o valor e o ano do veículo. Essas informações são então usadas para criar um objeto "veículo" e salvá-lo no servidor.
 ```java
-  System.out.println("\nDigite o modelo do carro: ");
+                    System.out.println("\nDigite o modelo do carro: ");
                     String nomeCliente = input.nextLine();
                     System.out.println("Digite a marca do veículo: ");
                     String marcaVeiculo = input.nextLine();
