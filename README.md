@@ -98,7 +98,7 @@ public String getNomeVeiculo() {
     }
 ```
 
-## Uso/Exemplos - VeiculoServer
+## VeiculoServer
 
 A classe VeiculoServer implementa a interface VeiculoInterface, que define os métodos que podem ser chamados remotamente pelos clientes. O método search2Ano recebe um parâmetro anoVeiculo e retorna uma lista de veículos que possuem o mesmo ano informado. Já o método add recebe um objeto Veiculo e o adiciona à lista de veículos registrados no servidor.
 ```java
@@ -121,7 +121,7 @@ public static void main(String[] args) throws MalformedURLException, AlreadyBoun
         }
     }
 ```
-## Uso/Exemplos - VeiculoCliente
+## VeiculoCliente
 
 No começo do programa, é verificado se o servidor está funcionando. Caso esteja, o programa registra todas as funções que estão disponíveis no servidor.
 ```java
