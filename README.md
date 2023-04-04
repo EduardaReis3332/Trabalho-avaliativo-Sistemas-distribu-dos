@@ -167,3 +167,18 @@ case "2":
 ```
 
 # - Atividade 3
+
+# Servidor de Conversação de Mensagens
+
+# Passo a passo para iniciar o programa:
+1. Execute o Servidor, aguarde-o Inicializar.
+2. Execute o Cliente, aguarde-o conectar ao servidor.
+3. Usar.
+
+# Modo de uso:
+Colocar seu apelido e iniciar a conversação
+
+Exemplo:
+PICACHU> Oi gente, tudo bem?
+SEU-BONECO> Oi, estou com fome!
+
