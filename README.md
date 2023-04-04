@@ -3,7 +3,7 @@ Professor : Claudio Martins
 
 Alunos : Eduarda Reis, Eduardo Cordovil e Marcelo Faro
 
-#- Atividade 1
+# - Atividade 1
 
 # Calculadora Remota em UDP
 
@@ -17,7 +17,7 @@ Esta atividade consite em uma implementação de uma calculadora remota usando J
 # Modo de uso:
 Para realizar uma operação, digite normalmente o primeiro valor, seguido do sinal da operação e do segundo valor, separando os operadores do operando por espaços em brancos. Exemplo: 10 * 5
 
-# - Atividade
+# - Atividade 2
 
 # Classificado de Veículos
 
@@ -165,3 +165,5 @@ case "2":
                         for (Veiculo veiculo : resultado) {
                             System.out.println(veiculo.getNomeVeiculo());
 ```
+
+# - Atividade 3
