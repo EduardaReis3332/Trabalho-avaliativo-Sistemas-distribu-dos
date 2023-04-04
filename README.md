@@ -1,1 +1,1 @@
-# Trabalho-avaliativo-Sistemas-distribu-dos
+# Trabalho Avaliativo Sistemas Distribuídos
