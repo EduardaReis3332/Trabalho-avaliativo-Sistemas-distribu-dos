@@ -1,5 +1,5 @@
 # Trabalho Avaliativo Sistemas Distribuídos
-Professor : Cladio Martins
+Professor : Claudio Martins
 
 Alunos : Eduarda Reis, Eduardo Cordovil e Marcelo Faro
 
